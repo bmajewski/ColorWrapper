@@ -33,7 +33,7 @@ public class UIColors {
     public static let secondarySystemFill: Color = Color(uiColor: UIColor.secondarySystemFill) 
     
     /// An overlay fill color for large shapes./
-    public static let stertiarySystemFill: Color = Color(uiColor: UIColor.tertiarySystemFill)       
+    public static let tertiarySystemFill: Color = Color(uiColor: UIColor.tertiarySystemFill)       
     
     /// An overlay fill color for large areas that contain complex content./
     public static let quaternarySystemFill: Color = Color(uiColor: UIColor.quaternarySystemFill)           
